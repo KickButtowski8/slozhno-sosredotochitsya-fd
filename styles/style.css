@@ -313,10 +313,6 @@
     gap: 20px;
   }
 
-  .main > .section:nth-of-type(4) > .cards-list {
-    gap: 20px;
-  }
-
   .header__subtitle {
     max-inline-size: 364px;
   }
